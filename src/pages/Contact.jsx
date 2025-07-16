@@ -43,7 +43,7 @@ const Contact = () => {
 
             <p className="flex items-start gap-3">
               <i className="fa-solid fa-envelope mt-1 text-[#cba779]" />
-              <span>hello@coffeehouse.com</span>
+              <span>hello@Zaincoffee.com</span>
             </p>
 
             {/* social */}
